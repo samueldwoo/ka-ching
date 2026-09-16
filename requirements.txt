@@ -1,0 +1,4 @@
+# Python 3.10-3.14; Python 3.13 is recommended by the setup scripts.
+PyMuPDF>=1.27,<2
+pypdf>=6.0,<7
+ofxparse>=0.21,<0.22

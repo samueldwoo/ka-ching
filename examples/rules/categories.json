@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "category": "Transfers",
+      "match": [
+        "CARD PAYMENT",
+        "INTERNAL TRANSFER"
+      ]
+    },
+    {
+      "category": "Savings & Investing",
+      "match": [
+        "BROKERAGE TRANSFER"
+      ]
+    },
+    {
+      "category": "Income",
+      "match": [
+        "EXAMPLE PAYROLL"
+      ]
+    },
+    {
+      "category": "Groceries",
+      "match": [
+        "EXAMPLE MARKET"
+      ]
+    },
+    {
+      "category": "Dining",
+      "match": [
+        "EXAMPLE CAFE"
+      ]
+    },
+    {
+      "category": "Transportation",
+      "match": [
+        "METRO TRANSIT"
+      ]
+    }
+  ]
+}

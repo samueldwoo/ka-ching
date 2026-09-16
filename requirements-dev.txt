@@ -1,0 +1,3 @@
+-r requirements.txt
+pytest>=8.0
+selenium>=4.0,<5

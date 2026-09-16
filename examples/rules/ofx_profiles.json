@@ -1,0 +1,9 @@
+{
+  "example_savings": {
+    "account": "Example Savings",
+    "account_type": "checking",
+    "fingerprints": [
+      "ORG>EXAMPLECU"
+    ]
+  }
+}

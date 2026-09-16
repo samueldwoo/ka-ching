@@ -1,0 +1,32 @@
+# Python environments and caches
+.venv/
+.venv.previous/
+.ka-ching-setup.lock
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.log
+
+# Private financial state
+/data/
+/rules/
+/imports/
+/ChaseBank/
+/CSP/
+/VX/
+/Venmo/
+HANDOFF.md
+
+# Statement/export formats are private everywhere except the named synthetic file
+*.csv
+*.ofx
+*.pdf
+*.qfx
+*.xlsx
+!examples/imports/example-checking.csv

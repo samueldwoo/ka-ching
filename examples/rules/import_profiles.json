@@ -1,0 +1,13 @@
+{
+  "example_checking": {
+    "account": "Everyday Checking",
+    "account_type": "checking",
+    "columns": {
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount"
+    },
+    "date_format": "%Y-%m-%d",
+    "outflow_sign": "negative"
+  }
+}

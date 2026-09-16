@@ -1,0 +1,8 @@
+{
+  "home_state": "NY",
+  "fallback_categories": {
+    "venmo": "Miscellaneous",
+    "wallet": "Miscellaneous",
+    "credit_card": "Miscellaneous"
+  }
+}
